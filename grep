@@ -1,0 +1,1 @@
+'grep "xxx"' searches for "xxx" in the text of the input files. Returns file name.
